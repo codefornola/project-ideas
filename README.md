@@ -1,10 +1,3 @@
-Brigade Project Stages
+This repo is a collection of ideas for projects that we can work on.  Create a [new issue](https://github.com/codefornola/project-ideas/issues/new) to get started.
 
-Code for America has released some official project stages:
-
-    Experiment - Explore the problem/idea. Have lots of these.
-    Alpha - Solve one person's problem
-    Beta - More users
-    Official - Impact
-
-Click [here](https://www.codeforamerica.org/brigade/projects/stages) for more details about the project stages.
+Fill out the issue template with as much information as you can so we can take the ideas and turn them into software
